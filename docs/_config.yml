@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Розробка електронного передвісника погоди на базі Arduino
-description: Дипломна робота Гаража О.В.
+description:  Дипломна робота Гаража О.В.
