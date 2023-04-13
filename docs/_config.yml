@@ -1,3 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0;
+remote_theme: pages-themes/cayman@v0.2.0
+
 title: Розробка електронного передвісника погоди на базі Arduino 
-dscribtion: Дипломна робота Гаража О.В.
+dscription: Дипломна робота Гаража О.В.
